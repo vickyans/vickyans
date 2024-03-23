@@ -1,6 +1,5 @@
 - 👋 Hi, I’m vicky
-- 👀 I’m interested in web devellopent 
-- 🌱 I’m currently learning the front-end of web dev in javaScipt
+- - - I am a web develloper and student in Softwware engeering, let's explore coding and programming
 <!---
 vickyans/vickyans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
